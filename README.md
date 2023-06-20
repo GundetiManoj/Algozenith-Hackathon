@@ -13,4 +13,4 @@ TF-IDF Algorithm: The TF-IDF algorithm is implemented to calculate the importanc
 
 User Interface: A user-friendly interface is developed using HTML and CSS. The interface includes a well-designed search bar that enables users to input their search queries and obtain instant results.
 
-Server Hosting: The project is hosted on a server to make it accessible online. Technologies like Flask/Django and platforms like Heroku are utilized for server deployment. Performance optimizations and scaling considerations are implemented to ensure smooth operation even during high user traffic
+Server Hosting: The project is hosted on a server to make it accessible online. Technologies like Flasko and platforms like Render are utilized for server deployment.  
